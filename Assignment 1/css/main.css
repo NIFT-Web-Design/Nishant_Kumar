@@ -1,0 +1,285 @@
+header {
+    background-color: #2A2A2A;
+    padding: 16px 160px;
+  }
+nav {
+  display: inline-block;
+  vertical-align: top;
+  float: right;
+  padding-top: 16px;
+}
+nav a {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #d4d4d4;
+  text-decoration: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-size: 13px;
+}
+nav a#blueBox {
+  background-color: #107698;
+  color: white;
+}
+
+nav a#orangehighlight {
+color: orange
+}
+h1 {
+  font-weight: 300;
+  background-image: url(https://www.optimal-partners.com/site_images/ourServicesHeader.jpg);
+  background-position: center;
+  color: #ffffff;
+  font-size: 50px;
+text-shadow: 1px 2px 2px #000;
+text-align: center;
+padding: 70px 0;
+width: 100;
+}
+.highereducation p span {
+  color: #ffa500;
+}
+
+/* comman styling of the page */
+
+.highereducation {
+  padding: 50px 0px 70px;
+  }
+  .highereducation .serveeducation {
+    max-width: 1150px;
+  margin: auto;
+  }
+  p {
+    line-height: 1.4;
+  }
+
+/* all h2 styling */
+
+h2 {
+  font-size: 34px;
+  color: #0a465b;
+  text-align: center;
+  margin-bottom: 30px;
+  padding-top: 10px;
+}
+
+div > p {
+  color: #7f969e;
+ font-size: 24px;
+ text-align: center;
+ max-width: 856;
+ margin: auto;
+ padding: 10px 0px;
+ line-height: 1.4;
+ height: 100%;
+}
+
+/* background grey */
+
+.servicesofvariety {
+  background-color: #edeff3;
+  }
+
+/* fourblueboxstyling */
+
+div.fourboxes {
+  display: flex;
+    justify-content: center;
+    gap: 32px;
+    background-color: #EDEff3;
+padding-top: 60px;
+}
+
+.fourboxes article {
+  box-shadow: 0px 3px 8px 0px rgb(0 0 0 /20% );
+  width: 260px;
+  background-color: white;
+}
+.fourboxes article h3 {
+  background-color: #0a465b;
+    color: white;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+    height: 60px;
+    border-bottom: 5px; solid lightgrey;
+    padding: 25px 20px 25px
+}
+.fourboxes article p {
+  padding: 20px 25px;
+  color: #7f969e;
+}
+
+
+
+
+
+
+
+
+ /* flexbility location centre align */
+
+ section.servicesofvariety .sixcentrepara {
+   margin: 0 100px;
+   padding-left: 50px;
+ }
+ .firstpara {
+   display: inline-flex;
+  flex-wrap: wrap;
+  max-width: 350px;
+  margin-top: 30px;
+  margin-left: 30px;
+  box-sizing: border-box;
+ }
+
+ .firstpara .centrealignpara h3 {
+   font-size: 24px;
+    color: #0a465b;
+    text-align: center;
+    font-variant: small-caps;
+    border-bottom: 2px solid #FDB530;
+    padding: 7px 0;
+    margin: auto;
+    width: 80%;
+ }
+
+ .firstpara .centrealignpara p {
+   padding: 15px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.4;
+    color: #7f969e;
+ }
+
+ /* widevarietyboxes */
+
+ div.widevarietyboxes {
+   display: flex;
+  justify-content: center;
+  gap: 32px;
+  padding-top: 40px;
+ }
+ .widevarietyboxes article {
+ box-shadow: 0px 3px 8px 0px rgb(0 0 0 /20% );
+width: 260px;
+background-color: white;
+ }
+.widevarietyboxes article h3 {
+  background-color: #0a465b;
+  color: white;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: 300;
+  text-align: center;
+  height: 60px;
+  border-bottom: 5px; solid lightgrey;
+  padding: 25px 20px 25px;
+}
+.widevarietyboxes article p {
+  padding: 20px 25px;
+color: #7f969e;
+}
+
+
+/* contactUs getintouch */
+
+
+.getintouch {
+  color: #0a465b;
+text-align: center;
+padding: 10px 0px 30px 0px;
+}
+
+.highereducation .allgetintouch {
+  margin: 0px;
+  padding-left: 100px;
+  display: inline-block;
+  position: relative;
+}
+
+
+.leftside {
+  display: inline-block;
+}
+
+.allgetintouch #rightside {
+  display: inline-block;
+  margin-left: 50px;
+  margin-top:20px;
+
+}
+
+
+#helpimage {
+  margin-left: 130px;
+    border-radius: 50%;
+    border: 8px solid rgba(253, 181, 48, 0.7);
+    position: relative;
+    bottom: 50px;
+    left: 140px;
+  }
+
+  #happytohelp {
+    width: 260px;
+    font-size: 18px;
+    color: #7f969e;
+    text-align: center;
+    border-top: 1px solid #107698;
+    border-bottom: 1px solid #107698;
+    padding: 10px 0;
+    display: inline-block;
+    margin-top: 16px;
+    position: relative;
+    bottom: 10px;
+    right: 100px;
+    line-height: 1.4;
+  }
+
+  #rightside a .contactUs {
+    width: 165px;
+  font-size: 24px;
+  text-transform: capitalize;
+  color: white;
+  padding: 15px 0px 15px 50px;
+  background-color: #107698;
+  border: 2px solid #FDB530;
+  border-radius: 4px;
+  box-shadow: 0px 3px 5px 0px rgb(0 0 0 / 50%);
+  transition: 0.2s;
+  position: relative;
+  margin-left: 65px;
+  display: inline-block;
+  }
+
+  #rightside .apps {
+    min-width: 350px;
+    text-align: center;
+  border-top: 4px solid #dfdfe0;
+  margin-top: 35px;
+  padding-top: 25px;
+  }
+
+  .apps #linkedin, #twitter, #facebook {
+    border: 5px solid #dfdfe0;
+  border-radius: 50px;
+  margin: 0 12px;
+  }
+
+  .servicesofvariety .imagetrusted {
+    margin: auto;
+  padding-left: 300px;
+  height: 90px;
+  padding-top: 30px;
+  }
+
+
+footer {
+  background-color: #504f4f;
+  display: block;
+  width: 100%;
+  line-height: 1.4;
+  color: #c7c5c5;
+  text-align: center;
+  padding: 40px 0;
+}
