@@ -1,0 +1,196 @@
+body{
+  background-color: #f2f2f2;
+}
+body div#main{
+  display: flex;
+  max-width: 800px;
+  margin: auto;
+}
+
+/* BODY LEFT SIDE */
+
+body div#left{
+  width: 45%;
+  background-color: #2465ab;
+}
+body div#l1{
+  background-color: #2465ab;
+  height: 280px;
+}
+#pic{
+  max-width: 240px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  position: relative;
+  top: 50px;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+}
+
+body div#l2{
+  padding-top: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+body div #l2 .lefth2{
+  color: white;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: bold;
+}
+body div #l2 .lefth2-1{
+  color: white;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+body div #l2 .hrwhite{
+  color: white;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+body div #l2 .icons{
+  height: 30px;
+  margin-right: 20px;
+  vertical-align: middle;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+body div #l2 p.pleft{
+  color: #ffffff;
+  display: inline;
+  font-family: "Roboto";
+  font-size: 13px;
+}
+body div #l2 a:link{
+  color: 000000;
+  text-decoration: underline;
+  font-family: "Roboto";
+  font-size: 12px;
+}
+
+/* education list */
+
+.Education{
+  margin-bottom: 20;
+}
+.EduYear{
+  color: white;
+  font-family: "Roboto";
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+.EduCourse{
+  color: white;
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+.EduInst{
+  color: white;
+  font-family: "Roboto";
+  font-size: 13px;
+  margin-bottom: 30px;
+}
+
+
+
+/* --BODY RIGHT DIVISION STARTS HERE--*/
+
+
+
+body div#right{
+  width: 55%;
+  background-color: white;
+}
+body div #r1{
+  background-color: grey;
+  height: 200px;
+  padding-top: 80px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+body div #r1 .mainh1{
+  color: white;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+body div #r1 .mainh2{
+  color: white;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: 500;
+}
+body div #r1 .hrR1{
+  color: white;
+  margin-top: 30px;
+}
+body div #r2{
+  padding-top: 80px;
+  padding-left: 50px;
+  padding-right: 100px;
+}
+body div #r2 .righth2{
+  color: #4d4d4d;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: bold;
+}
+.hrblack{
+  margin-top: 12px;
+  margin-bottom: 30px;
+}
+
+
+/* EXPERIENCE */
+
+.work{
+  margin-bottom: 30px;
+}
+.WorkYear{
+  color: #4d4d4d;
+  font-family: "Roboto";
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.WorkPosition{
+  color: #2465ab;
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.company{
+  color: #4d4d4d;
+  font-family: "Roboto";
+  font-size: 12px;
+  margin-bottom: 30px;
+}
+
+.righth3{
+  color: #4d4d4d;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 60px;
+
+}
+.skills{
+  color: black;
+  font-family: "Roboto";
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.LAST{
+  color: black;
+  font-family: "Roboto";
+  font-size: 14px;
+  margin-bottom: 50px;
+}
