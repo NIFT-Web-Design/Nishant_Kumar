@@ -1,2 +1,2 @@
 # Nishant_Kumar-Assignments:
-[Assignment_1](https://github.com/NIFT-Web-Design/Nishant_Kumar/tree/main/Assignment%201)
+[Assignment_1](https://file:///C:/Users/nisha/Documents/GitHub/Nishant_Kumar/Assignment_1/index.html)
